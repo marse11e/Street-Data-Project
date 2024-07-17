@@ -2,11 +2,8 @@
 
 Этот проект использует библиотеку OSMnx для извлечения и визуализации уличных данных городов.
 
-<img src='static/street_graph_img/Almaty_street_network.png' width="100px" height="100px">
-<img src='static/street_graph_img/Osh_street_network.png' width="100px" height="100px">
-<img src='static/street_graph_img/Shymkent_street_network.png' width="100px" height="100px">
-<img src='static/street_graph_img/Tashkent_street_network.png' width="100px" height="100px">
-<img src='static/street_graph_img/Bishkek_street_network.png' width="100px" height="100px">
+<img src='static/street_graph_img/Almaty_street_network.png' width="200px" height="200px">
+<img src='static/street_graph_img/Bishkek_street_network.png' width="200px" height="200px">
 
 | Название улицы            | Длина   | Начальные координаты            | Конечные координаты             |
 |---------------------------|---------|---------------------------------|---------------------------------|
